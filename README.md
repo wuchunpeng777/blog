@@ -1,4 +1,4 @@
-# Blog Title :link: https://wuchunpeng777.github.io/wuchunpeng.github.io 
+# Blog Title :link: https://wuchunpeng777.github.io/blog
 ### :page_facing_up: [1](https://wuchunpeng777.github.io/wuchunpeng.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 7 
